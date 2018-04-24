@@ -30,8 +30,6 @@ jupyter notebook U-Net.ipynb
 
 **numpy**
 
-**scipy**
-
 **jupyter**
 
 # Acknowledgement
