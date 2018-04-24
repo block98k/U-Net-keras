@@ -1,6 +1,6 @@
 # U-Net
 Deep autoencoder with skip connection neural networks, which also called U-Net.
-
+This project is based on [Denoise-VAE](https://github.com/block98k/Denoise-VAE)
 The constructure:
 <img src="model.png">
 
@@ -8,7 +8,7 @@ U-Net.ipynb uses keras with tensorflow backend.
 
 
 # Results
-<img src="result_keras_U-Net.png">
+<img src="result.png">
 
 The six pictures in first row are the original pictures.
 
